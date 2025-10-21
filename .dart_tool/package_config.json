@@ -74,6 +74,12 @@
       "languageVersion": "3.8"
     },
     {
+      "name": "getwidget",
+      "rootUri": "file:///C:/Users/mocha/AppData/Local/Pub/Cache/hosted/pub.dev/getwidget-7.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "google_fonts",
       "rootUri": "file:///C:/Users/mocha/AppData/Local/Pub/Cache/hosted/pub.dev/google_fonts-5.1.0",
       "packageUri": "lib/",

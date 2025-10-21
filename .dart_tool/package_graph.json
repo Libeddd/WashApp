@@ -10,6 +10,7 @@
         "collection",
         "cupertino_icons",
         "flutter",
+        "getwidget",
         "google_fonts",
         "intl"
       ],
@@ -41,6 +42,13 @@
         "stream_channel",
         "test_api",
         "vector_math"
+      ]
+    },
+    {
+      "name": "getwidget",
+      "version": "7.0.0",
+      "dependencies": [
+        "flutter"
       ]
     },
     {
